@@ -1,20 +1,18 @@
 {
-  "name": "Scrim-s06j1hm",
-  "description": "https://scrimba.com/frontend-path-c0j/~06wf",
+  "name": "tenzies-game",
+  "version": "1.0.0",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "nanoid": "5.0.7",
-    "react-confetti": "6.1.0",
-    "vite": "latest"
+    "react": "^18.2.0",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.5.0"
   }
 }
